@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kianna! I'm 20 years old and I'm a senior Economics student at North Carolina A&T State University.
 - 👀 I’m interested in front-end engineering.
-- 🌱 I’m currently learning front-end engineering. 
+- 🌱 I’m currently learning deep learning. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
