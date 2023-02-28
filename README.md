@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kianna! I'm 20 years old and I'm a senior Economics student at North Carolina A&T State University.
+- 👋 Hi, I’m Kianna! I'm 20 years old and I'm an incoming Data Science and Engineering graduate student at North Carolina A&T State University.
 - 👀 I’m interested in full-stack development and machine learning.
 - 🌱 I’m currently learning linear algebra and machine learning. 
 - 💞️ I’m looking to collaborate on ...
