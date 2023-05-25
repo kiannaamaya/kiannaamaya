@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kianna! I'm 20 years old and I'm an incoming Data Science and Engineering graduate student at North Carolina A&T State University.
-- 👀 I’m interested in full-stack development and machine learning.
-- 🌱 I’m currently learning linear algebra and machine learning. 
+- 👋 Hi, I’m Kianna! I'm 21 years old and I'm an incoming Data Science and Engineering graduate student at North Carolina A&T State University.
+- 👀 I’m interested in biostatistics and machine learning.
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.iamkianna.com
 
